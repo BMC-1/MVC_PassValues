@@ -1,0 +1,2582 @@
+eHDSIVaccine
+1.3.6.1.4.1.12559.11.10.1.3.1.42.28
+
+            new eHDSIVaccine
+            {
+                Id = 1,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AC",
+                Description = "Anthrax vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 2,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AC01",
+                Description = "anthrax antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 3,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AD",
+                Description = "Brucellosis vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 4,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AD01",
+                Description = "brucella antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 5,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AE",
+                Description = "Cholera vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 6,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AE01",
+                Description = "cholera, inactivated, whole cell",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 7,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AE02",
+                Description = "cholera, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 8,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AE51",
+                Description = "cholera, combinations with typhoid vaccine, inactivated, whole cell",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 9,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AF",
+                Description = "Diphtheria vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 10,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AF01",
+                Description = "diphtheria toxoid",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 11,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AG",
+                Description = "Haemophilus influenzae B vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 12,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AG01",
+                Description = "haemophilus influenzae B, purified antigen conjugated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 13,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AG51",
+                Description = "haemophilus influenzae B, combinations with toxoids",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 14,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AG52",
+                Description = "haemophilus influenzae B, combinations with pertussis and toxoids",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 15,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AG53",
+                Description = "haemophilus influenzae B, combinations with meningococcus C, conjugated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 16,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AG54",
+                Description = "haemophilus influenza B, combinations with meningococcus C,Y, conjugated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 17,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH",
+                Description = "Meningococcal vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 18,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH01",
+                Description = "meningococcus A, purified polysaccharides antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 19,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH02",
+                Description = "other meningococcal monovalent purified polysaccharides antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 20,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH03",
+                Description = "meningococcus A,C, bivalent purified polysaccharides antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 21,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH04",
+                Description = "meningococcus A,C,Y,W-135, tetravalent purified polysaccharides antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 22,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH05",
+                Description = "other meningococcal polyvalent purified polysaccharides antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 23,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH06",
+                Description = "meningococcus B, outer membrane vesicle vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 24,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH07",
+                Description = "meningococcus C, purified polysaccharides antigen conjugated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 25,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH08",
+                Description = "meningococcus A,C,Y,W-135, tetravalent purified polysaccharides antigen conjugated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 26,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH09",
+                Description = "meningococcus B, multicomponent vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 27,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AH10",
+                Description = "meningococcus A, purified polysaccharides antigen conjugated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 28,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AJ",
+                Description = "Pertussis vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 29,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AJ01",
+                Description = "pertussis, inactivated, whole cell",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 30,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AJ02",
+                Description = "pertussis, purified antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 31,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AJ51",
+                Description = "pertussis, inactivated, whole cell, combinations with toxoids",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 32,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AJ52",
+                Description = "pertussis, purified antigen, combinations with toxoids",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 33,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AK",
+                Description = "Plague vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 34,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AK01",
+                Description = "plague, inactivated, whole cell",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 35,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AL",
+                Description = "Pneumococcal vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 36,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AL01",
+                Description = "pneumococcus, purified polysaccharides antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 37,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AL02",
+                Description = "pneumococcus, purified polysaccharides antigen conjugated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 38,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AL52",
+                Description = "pneumococcus purified polysaccharides antigen and haemophilus influenzae, conjugated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 39,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AM",
+                Description = "Tetanus vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 40,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AM01",
+                Description = "tetanus toxoid",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 41,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AM51",
+                Description = "tetanus toxoid, combinations with diphtheria toxoid",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 42,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AM52",
+                Description = "tetanus toxoid, combinations with tetanus immunoglobulin",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 43,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AN",
+                Description = "Tuberculosis vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 44,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AN01",
+                Description = "tuberculosis, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 45,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AP",
+                Description = "Typhoid vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 46,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AP01",
+                Description = "typhoid, oral, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 47,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AP02",
+                Description = "typhoid, inactivated, whole cell",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 48,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AP03",
+                Description = "typhoid, purified polysaccharide antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 49,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AP10",
+                Description = "typhoid, combinations with paratyphi types",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 50,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AR",
+                Description = "Typhus (exanthematicus) vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 51,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AR01",
+                Description = "typhus exanthematicus, inactivated, whole cell",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 52,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AX",
+                Description = "Other bacterial vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 53,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07AX01",
+                Description = "leptospira vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 54,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BA",
+                Description = "Encephalitis vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 55,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BA01",
+                Description = "encephalitis, tick borne, inactivated, whole virus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 56,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BA02",
+                Description = "encephalitis, Japanese, inactivated, whole virus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 57,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BA03",
+                Description = "encephalitis, Japanese, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 58,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BB",
+                Description = "Influenza vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 59,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BB01",
+                Description = "influenza, inactivated, whole virus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 60,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BB02",
+                Description = "influenza, inactivated, split virus or surface antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 61,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BB03",
+                Description = "influenza, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 62,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BB04",
+                Description = "influenza, virus like particles",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 63,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BC",
+                Description = "Hepatitis vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 64,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BC01",
+                Description = "hepatitis B, purified antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 65,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BC02",
+                Description = "hepatitis A, inactivated, whole virus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 66,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BC20",
+                Description = "combinations",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 67,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BD",
+                Description = "Measles vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 68,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BD01",
+                Description = "measles, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 69,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BD51",
+                Description = "measles, combinations with mumps, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 70,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BD52",
+                Description = "measles, combinations with mumps and rubella, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 71,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BD53",
+                Description = "measles, combinations with rubella, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 72,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BD54",
+                Description = "measles, combinations with mumps, rubella and varicella, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 73,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BE",
+                Description = "Mumps vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 74,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BE01",
+                Description = "mumps, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 75,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BF",
+                Description = "Poliomyelitis vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 76,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BF01",
+                Description = "poliomyelitis oral, monovalent, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 77,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BF02",
+                Description = "poliomyelitis oral, trivalent, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 78,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BF03",
+                Description = "poliomyelitis, trivalent, inactivated, whole virus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 79,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BF04",
+                Description = "poliomyelitis oral, bivalent, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 80,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BG",
+                Description = "Rabies vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 81,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BG01",
+                Description = "rabies, inactivated, whole virus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 82,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BH",
+                Description = "Rota virus diarrhea vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 83,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BH01",
+                Description = "rota virus, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 84,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BH02",
+                Description = "rota virus, pentavalent, live, reassorted",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 85,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BJ",
+                Description = "Rubella vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 86,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BJ01",
+                Description = "rubella, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 87,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BJ51",
+                Description = "rubella, combinations with mumps, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 88,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BK",
+                Description = "Varicella zoster vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 89,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BK01",
+                Description = "varicella, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 90,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BK02",
+                Description = "zoster, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 91,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BK03",
+                Description = "zoster, purified antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 92,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BL",
+                Description = "Yellow fever vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 93,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BL01",
+                Description = "yellow fever, live attenuated",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 94,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BM",
+                Description = "Papillomavirus vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 95,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BM01",
+                Description = "papillomavirus (human types 6, 11, 16, 18)",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 96,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BM02",
+                Description = "papillomavirus (human types 16, 18)",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 97,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BM03",
+                Description = "papillomavirus (human types 6, 11, 16, 18, 31, 33, 45, 52, 58)",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 98,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BN",
+                Description = "Covid-19 vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 99,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BN01",
+                Description = "covid-19, RNA-based vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 100,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BN02",
+                Description = "covid-19, viral vector, non-replicating",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 101,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BN03",
+                Description = "covid-19, inactivated virus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 102,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BN04",
+                Description = "covid-19, protein subunit",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 103,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BX",
+                Description = "Other viral vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 104,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BX01",
+                Description = "smallpox vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 105,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BX02",
+                Description = "ebola vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 106,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07BX04",
+                Description = "dengue virus vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 107,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA",
+                Description = "Bacterial and viral vaccines, combined",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 108,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA01",
+                Description = "diphtheria-poliomyelitis-tetanus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 109,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA02",
+                Description = "diphtheria-pertussis-poliomyelitis-tetanus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 110,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA03",
+                Description = "diphtheria-rubella-tetanus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 111,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA04",
+                Description = "haemophilus influenzae B and poliomyelitis",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 112,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA05",
+                Description = "diphtheria-hepatitis B-pertussis-tetanus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 113,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA06",
+                Description = "diphtheria-haemophilus influenzae B-pertussis-poliomyelitis-tetanus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 114,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA07",
+                Description = "diphtheria-hepatitis B-tetanus",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 115,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA08",
+                Description = "haemophilus influenzae B and hepatitis B",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 116,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA09",
+                Description = "diphtheria-haemophilus influenzae B-pertussis-poliomyelitis-tetanus-hepatitis B",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 117,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA10",
+                Description = "typhoid-hepatitis A",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 118,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA11",
+                Description = "diphtheria-haemophilus influenzae B-pertussis-tetanus-hepatitis B",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 119,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA12",
+                Description = "diphtheria-pertussis-poliomyelitis-tetanus-hepatitis B",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 120,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07CA13",
+                Description = "diphtheria-haemophilus influenzae B-pertussis-tetanus-hepatitis B-meningococcus A + C",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 121,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07XA",
+                Description = "Parasitic vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 122,
+                CodeSystemID = "2.16.840.1.113883.6.73",
+                CodeSystemVersion = "2023-01",
+                ConceptCode = "J07XA01",
+                Description = "malaria vaccines",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 123,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1001000221103",
+                Description = "Inactivated whole Vibrio cholerae antigen only vaccine product in oral dose form",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 124,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1011000221100",
+                Description = "Live attenuated Vibrio cholerae antigen only vaccine product in oral dose form",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 125,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1031000221108",
+                Description = "Human poliovirus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 126,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1051000221104",
+                Description = "Live attenuated Human poliovirus serotypes 1 and 3 antigens only vaccine product in oral dose form",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 127,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1052328007",
+                Description = "Streptococcus pneumoniae Danish serotype 4, 6B, 9V, 14, 18C, 19F, and 23F capsular polysaccharide antigens conjugated only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 128,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1081000221109",
+                Description = "Live attenuated Rotavirus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 129,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1101000221104",
+                Description = "Clostridium tetani toxoid antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 130,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1119254000",
+                Description = "Streptococcus pneumoniae Danish serotype 1, 3, 4, 5, 6A, 6B, 7F, 9V, 14, 18C, 19A, 19F, and 23F capsular polysaccharide antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 131,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1119305005",
+                Description = "SARS-CoV-2 antigen vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 132,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1119349007",
+                Description = "SARS-CoV-2 mRNA vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 133,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1121000221106",
+                Description = "Live attenuated Yellow fever virus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 134,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1131000221109",
+                Description = "Vaccine product containing only inactivated whole Rabies lyssavirus antigen",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 135,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1157024006",
+                Description = "Inactivated whole SARS-CoV-2 antigen vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 136,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1162643001",
+                Description = "SARS-CoV-2 recombinant spike protein antigen vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 137,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1181000221105",
+                Description = "Influenza virus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 138,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1801000221105",
+                Description = "Streptococcus pneumoniae capsular polysaccharide antigen conjugated only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 139,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1861000221106",
+                Description = "Bacillus Calmette-Guerin antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 140,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "1981000221108",
+                Description = "Neisseria meningitidis serogroup B antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 141,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "2171000221104",
+                Description = "Salmonella enterica subspecies enterica serovar Typhi capsular polysaccharide unconjugated antigen only vaccine product in parenteral dose form",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 142,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "2221000221107",
+                Description = "Live attenuated Human alphaherpesvirus 3 only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 143,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "28531000087107",
+                Description = "COVID-19 vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 144,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "29061000087103",
+                Description = "COVID-19 non-replicating viral vector vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 145,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "37146000",
+                Description = "Typhus vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 146,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "409568008",
+                Description = "Pentavalent botulinum toxoid vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 147,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "428601009",
+                Description = "Paratyphoid vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 148,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "601000221108",
+                Description = "Bordetella pertussis antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 149,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "774618008",
+                Description = "Whole cell Bordetella pertussis and Clostridium tetani toxoid adsorbed and Corynebacterium diphtheriae toxoid antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 150,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "775641005",
+                Description = "Clostridium tetani toxoid adsorbed and Corynebacterium diphtheriae toxoid antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 151,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "777725002",
+                Description = "Clostridium tetani toxoid antigen adsorbed only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 152,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836368004",
+                Description = "Bacteria antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 153,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836369007",
+                Description = "Virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 154,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836374004",
+                Description = "Hepatitis B virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 155,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836375003",
+                Description = "Hepatitis A virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 156,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836377006",
+                Description = "Influenza virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 157,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836378001",
+                Description = "Japanese encephalitis virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 158,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836379009",
+                Description = "Human papillomavirus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 159,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836380007",
+                Description = "Haemophilus influenzae type B antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 160,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836381006",
+                Description = "Corynebacterium diphtheriae antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 161,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836382004",
+                Description = "Measles morbillivirus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 162,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836383009",
+                Description = "Vibrio cholerae antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 163,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836384003",
+                Description = "Bacillus anthracis antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 164,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836385002",
+                Description = "Yellow fever virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 165,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836387005",
+                Description = "Rotavirus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 166,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836388000",
+                Description = "Rubella virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 167,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836389008",
+                Description = "Vaccinia virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 168,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836390004",
+                Description = "Salmonella enterica subspecies enterica serovar Typhi antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 169,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836393002",
+                Description = "Rabies lyssavirus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 170,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836397001",
+                Description = "Coxiella burnetii antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 171,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836398006",
+                Description = "Streptococcus pneumoniae antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 172,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836401009",
+                Description = "Neisseria meningitidis antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 173,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836402002",
+                Description = "Bacillus Calmette-Guerin antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 174,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836403007",
+                Description = "Tick-borne encephalitis virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 175,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836495005",
+                Description = "Human alphaherpesvirus 3 antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 176,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836498007",
+                Description = "Mumps orthorubulavirus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 177,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "836500008",
+                Description = "Haemophilus influenzae type B and Neisseria meningitidis serogroup C antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 178,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "840549009",
+                Description = "Yersinia pestis antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 179,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "840563003",
+                Description = "Dengue virus antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 180,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "840599008",
+                Description = "Borrelia burgdorferi antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 181,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "863911006",
+                Description = "Clostridium tetani antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 182,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871726005",
+                Description = "Rabies lyssavirus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 183,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871737006",
+                Description = "Mumps orthorubulavirus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 184,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871738001",
+                Description = "Live attenuated Mumps orthorubulavirus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 185,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871739009",
+                Description = "Human poliovirus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 186,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871740006",
+                Description = "Inactivated whole Human poliovirus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 187,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871742003",
+                Description = "Clostridium tetani antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 188,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871751006",
+                Description = "Hepatitis A virus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 189,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871759008",
+                Description = "Acellular Bordetella pertussis only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 190,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871764007",
+                Description = "Haemophilus influenzae type b antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 191,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871765008",
+                Description = "Measles morbillivirus antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 192,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871768005",
+                Description = "Influenza virus antigen only vaccine product in nasal dose form",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 193,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871772009",
+                Description = "Influenza A virus subtype H1N1 antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 194,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871803007",
+                Description = "Hepatitis A and Hepatitis B virus antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 195,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871804001",
+                Description = "Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 196,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871806004",
+                Description = "Haemophilus influenzae type B and Hepatitis B virus antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 197,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871826000",
+                Description = "Clostridium tetani and Corynebacterium diphtheriae antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 198,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871831003",
+                Description = "Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 199,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871837004",
+                Description = "Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 200,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871839001",
+                Description = "Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 201,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871866001",
+                Description = "Neisseria meningitidis serogroup C only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 202,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871871008",
+                Description = "Neisseria meningitidis serogroup A and C only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 203,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871873006",
+                Description = "Neisseria meningitidis serogroup A, C, W135 and Y only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 204,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871875004",
+                Description = "Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 205,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871876003",
+                Description = "Acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 206,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871878002",
+                Description = "Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Human poliovirus antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 207,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871887006",
+                Description = "Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 208,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871889009",
+                Description = "Acellular Bordetella pertussis and Corynebacterium diphtheriae and Hepatitis B virus and inactivated whole Human poliovirus antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 209,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871895005",
+                Description = "Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus and Human poliovirus antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 210,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871908002",
+                Description = "Human alphaherpesvirus 3 and Measles morbillivirus and Mumps orthorubulavirus and Rubella virus antigens only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 211,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871918007",
+                Description = "Rickettsia antigen-containing vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 212,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "871921009",
+                Description = "Staphylococcus toxoid vaccine",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 213,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "921000221108",
+                Description = "Neisseria meningitidis antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 214,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "971000221109",
+                Description = "Live attenuated Salmonella enterica subspecies enterica serovar Typhi antigen only vaccine product in oral dose form",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },
+
+            new eHDSIVaccine
+            {
+                Id = 215,
+                CodeSystemID = "2.16.840.1.113883.6.96",
+                CodeSystemVersion = "2022-07-31",
+                ConceptCode = "981000221107",
+                Description = "Streptococcus pneumoniae antigen only vaccine product",
+                ValueSetId = "1.3.6.1.4.1.12559.11.10.1.3.1.42.28",
+                MvcVersion = "7.1.0",
+                IsActive = true
+            },

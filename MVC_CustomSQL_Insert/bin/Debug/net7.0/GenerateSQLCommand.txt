@@ -1,0 +1,1 @@
+INSERT INTO IPSNoAllergiesInfo(id, code_system_id, code_system_version, concept_code, description, value_set_id, mvc_version, is_active) VALUES

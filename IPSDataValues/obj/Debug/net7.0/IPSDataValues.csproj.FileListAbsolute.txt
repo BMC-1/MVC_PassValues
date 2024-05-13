@@ -1,0 +1,14 @@
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\bin\Debug\net7.0\IPSDataValues.exe
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\bin\Debug\net7.0\IPSDataValues.deps.json
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\bin\Debug\net7.0\IPSDataValues.runtimeconfig.json
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\bin\Debug\net7.0\IPSDataValues.dll
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\bin\Debug\net7.0\IPSDataValues.pdb
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\obj\Debug\net7.0\IPSDataValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\obj\Debug\net7.0\IPSDataValues.AssemblyInfoInputs.cache
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\obj\Debug\net7.0\IPSDataValues.AssemblyInfo.cs
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\obj\Debug\net7.0\IPSDataValues.csproj.CoreCompileInputs.cache
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\obj\Debug\net7.0\IPSDataValues.dll
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\obj\Debug\net7.0\refint\IPSDataValues.dll
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\obj\Debug\net7.0\IPSDataValues.pdb
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\obj\Debug\net7.0\IPSDataValues.genruntimeconfig.cache
+C:\Users\kalli\Desktop\HospitalAi_Notes\MVC_PassValues\IPSDataValues\obj\Debug\net7.0\ref\IPSDataValues.dll

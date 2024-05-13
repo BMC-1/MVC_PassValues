@@ -1,0 +1,35 @@
+
+        new IPSAllergyStatusCode
+        {
+            Id = 1,
+            Code = "active",
+            CodeSystem = "2.16.840.1.113883.4.642.3.155",
+            DisplayName = "Active",
+            ValueSetId = "2.16.840.1.113883.11.22.42",
+            IpsVersion = "1.0",
+            IsActive = true
+        },
+    
+
+        new IPSAllergyStatusCode
+        {
+            Id = 2,
+            Code = "inactive",
+            CodeSystem = "2.16.840.1.113883.4.642.3.155",
+            DisplayName = "Inactive",
+            ValueSetId = "2.16.840.1.113883.11.22.42",
+            IpsVersion = "1.0",
+            IsActive = true
+        },
+    
+
+        new IPSAllergyStatusCode
+        {
+            Id = 3,
+            Code = "resolved",
+            CodeSystem = "2.16.840.1.113883.4.642.3.155",
+            DisplayName = "Resolved",
+            ValueSetId = "2.16.840.1.113883.11.22.42",
+            IpsVersion = "1.0",
+            IsActive = true
+        },
