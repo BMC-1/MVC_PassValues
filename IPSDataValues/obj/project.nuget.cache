@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iMieTLo0dh8oWCd25Ztng1GZYPhmt8H9dLVf0ky4GDx8Yu5aAoxDEUQQpU1pVHYuHenO9Ikc3moPiAH2kIkz+g==",
+  "dgSpecHash": "SMMmHfflk54CqX9Nxej5lNE6iO7EJcH5aHCTRnXeg5iqMBgZnbwcUMK1v78heHC1NJmtKsSUP0JL6ndFBdphdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalli\\Desktop\\HospitalAi_Notes\\MVC_PassValues\\IPSDataValues\\IPSDataValues.csproj",
+  "projectFilePath": "C:\\Users\\alext\\Desktop\\IPS-EHR\\MVC_PassValues\\IPSDataValues\\IPSDataValues.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

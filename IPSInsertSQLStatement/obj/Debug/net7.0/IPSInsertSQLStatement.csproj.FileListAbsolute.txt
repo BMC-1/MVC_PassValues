@@ -1,0 +1,14 @@
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\bin\Debug\net7.0\IPSInsertSQLStatement.exe
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\bin\Debug\net7.0\IPSInsertSQLStatement.deps.json
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\bin\Debug\net7.0\IPSInsertSQLStatement.runtimeconfig.json
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\bin\Debug\net7.0\IPSInsertSQLStatement.dll
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\bin\Debug\net7.0\IPSInsertSQLStatement.pdb
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\obj\Debug\net7.0\IPSInsertSQLStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\obj\Debug\net7.0\IPSInsertSQLStatement.AssemblyInfoInputs.cache
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\obj\Debug\net7.0\IPSInsertSQLStatement.AssemblyInfo.cs
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\obj\Debug\net7.0\IPSInsertSQLStatement.csproj.CoreCompileInputs.cache
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\obj\Debug\net7.0\IPSInsertSQLStatement.dll
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\obj\Debug\net7.0\refint\IPSInsertSQLStatement.dll
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\obj\Debug\net7.0\IPSInsertSQLStatement.pdb
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\obj\Debug\net7.0\IPSInsertSQLStatement.genruntimeconfig.cache
+C:\Users\alext\Desktop\IPS-EHR\MVC_PassValues\IPSInsertSQLStatement\obj\Debug\net7.0\ref\IPSInsertSQLStatement.dll

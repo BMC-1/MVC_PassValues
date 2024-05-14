@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "srqJhxyxQxzpIFawmdi/dFUtbXOSgUvq0NRoVq8+yICAMzvsOwSNPGtqsZOTzppBbZWaaVKwQgtyOqGbRxbm8A==",
+  "dgSpecHash": "bSqpjz9tjDU+eFPLAqaR/7E5kXrrNKFRe/qNemDSnUMpW0vollatE8FdJSrNXPeiDd/zvYj+bCPxU+IhELtq/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kalli\\Desktop\\HospitalAi_Notes\\MVC_PassValues\\IPSInsertSQLStatement\\IPSInsertSQLStatement.csproj",
+  "projectFilePath": "C:\\Users\\alext\\Desktop\\IPS-EHR\\MVC_PassValues\\IPSInsertSQLStatement\\IPSInsertSQLStatement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
