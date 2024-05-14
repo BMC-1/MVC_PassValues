@@ -27,7 +27,7 @@ int i = 1;
 // Write SQL statements to the file
 using (StreamWriter writer = new StreamWriter(outputPath))
 {
-    writer.WriteLine($"INSERT INTO {tableName}(id, code_system_id, code_system_version, concept_code, description, value_set_id, mvc_version, is_active) VALUES");
+    writer.WriteLine($"INSERT INTO {tableName}(id, code_system_id, code_system_version, concept_code, description, value_set_id, ips_version, is_active) VALUES");
 
     foreach (string entity in entities)
     {
@@ -38,9 +38,9 @@ using (StreamWriter writer = new StreamWriter(outputPath))
             string id = i.ToString();
             string codeSystemId = values[0];
             string codeSystemVersion = values[1];
-            string conceptCode = values[2];
-            string description = values.Length > 3 ? values[3].Replace("'", "\"") : string.Empty;
-            string formattedValues = $" ('{id}', '{codeSystemId}', '{codeSystemVersion}', '{conceptCode}', '{description}', '{valueSetId}', '7.1.0', true),";
+            string code = values[2];
+            string displayName = values.Length > 3 ? values[3].Replace("'", "\"") : string.Empty;
+            string formattedValues = $" ('{id}', '{codeSystemId}', '{codeSystemVersion}', '{code}', '{displayName}', '{valueSetId}', '7.1.0', true),";
             writer.WriteLine(formattedValues);
         }
         else

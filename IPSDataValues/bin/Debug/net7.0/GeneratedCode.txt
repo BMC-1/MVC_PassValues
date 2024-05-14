@@ -1,35 +1,23 @@
 
-        new IPSProblemSeverity
+        new IPSNoMedsInfo
         {
             Id = 1,
-            Code = "LA6752-5",
-            CodeSystem = "2.16.840.1.113883.6.1",
-            DisplayName = "Mild",
-            ValueSetId = "2.16.840.1.113883.11.22.18",
+            Code = "no-medication-info",
+            CodeSystem = "2.16.840.1.113883.5.1150.1",
+            DisplayName = "No information about medications",
+            ValueSetId = "2.16.840.1.113883.11.22.15",
             IpsVersion = "1.0",
             IsActive = true
         },
     
 
-        new IPSProblemSeverity
+        new IPSNoMedsInfo
         {
             Id = 2,
-            Code = "LA6751-7",
-            CodeSystem = "2.16.840.1.113883.6.1",
-            DisplayName = "Moderate",
-            ValueSetId = "2.16.840.1.113883.11.22.18",
-            IpsVersion = "1.0",
-            IsActive = true
-        },
-    
-
-        new IPSProblemSeverity
-        {
-            Id = 3,
-            Code = "LA6750-9",
-            CodeSystem = "2.16.840.1.113883.6.1",
-            DisplayName = "Severe",
-            ValueSetId = "2.16.840.1.113883.11.22.18",
+            Code = "no-known-medications",
+            CodeSystem = "2.16.840.1.113883.5.1150.1",
+            DisplayName = "No known medications",
+            ValueSetId = "2.16.840.1.113883.11.22.15",
             IpsVersion = "1.0",
             IsActive = true
         },
