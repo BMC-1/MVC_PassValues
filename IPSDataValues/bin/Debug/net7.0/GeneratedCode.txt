@@ -1,35 +1,35 @@
 
-        new IPSAllergyStatusCode
+        new IPSProblemSeverity
         {
             Id = 1,
-            Code = "active",
-            CodeSystem = "2.16.840.1.113883.4.642.3.155",
-            DisplayName = "Active",
-            ValueSetId = "2.16.840.1.113883.11.22.42",
+            Code = "LA6752-5",
+            CodeSystem = "2.16.840.1.113883.6.1",
+            DisplayName = "Mild",
+            ValueSetId = "2.16.840.1.113883.11.22.18",
             IpsVersion = "1.0",
             IsActive = true
         },
     
 
-        new IPSAllergyStatusCode
+        new IPSProblemSeverity
         {
             Id = 2,
-            Code = "inactive",
-            CodeSystem = "2.16.840.1.113883.4.642.3.155",
-            DisplayName = "Inactive",
-            ValueSetId = "2.16.840.1.113883.11.22.42",
+            Code = "LA6751-7",
+            CodeSystem = "2.16.840.1.113883.6.1",
+            DisplayName = "Moderate",
+            ValueSetId = "2.16.840.1.113883.11.22.18",
             IpsVersion = "1.0",
             IsActive = true
         },
     
 
-        new IPSAllergyStatusCode
+        new IPSProblemSeverity
         {
             Id = 3,
-            Code = "resolved",
-            CodeSystem = "2.16.840.1.113883.4.642.3.155",
-            DisplayName = "Resolved",
-            ValueSetId = "2.16.840.1.113883.11.22.42",
+            Code = "LA6750-9",
+            CodeSystem = "2.16.840.1.113883.6.1",
+            DisplayName = "Severe",
+            ValueSetId = "2.16.840.1.113883.11.22.18",
             IpsVersion = "1.0",
             IsActive = true
         },

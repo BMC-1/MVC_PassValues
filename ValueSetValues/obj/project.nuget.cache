@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qm7IEdhSYmORN5CWqK9czfCJuLkQ1EMSqqTgX62LKFLr9TXEiYyWsbWwpZ8SfrIEnaFrUi0HHdlX9vzw2AdyYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalli\\Desktop\\HospitalAi_Notes\\MVC_PassValues\\ValueSetValues\\ValueSetValues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalli\\.nuget\\packages\\exceldatareader\\3.7.0-develop00385\\exceldatareader.3.7.0-develop00385.nupkg.sha512"
+  ],
+  "logs": []
+}
